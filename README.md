@@ -37,7 +37,8 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 <p>
   <![Uploading image.png…]()
 "  />
-  <img src="ScreenShots/tc01_addTask1614893191281.jpg" width="40%" alt="Example for screenshot on failure" />
+  <img src="-![דוח באגים](https://github.com/user-attachments/assets/897378b0-7206-4933-aca0-b1f538ddc9c1)
+" />
 </p>
 
 
