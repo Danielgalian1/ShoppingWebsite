@@ -14,7 +14,8 @@ This repository contains a comprehensive automated testing project built with Ja
 The project follows the Page Object Model (POM) design pattern for a modular and maintainable test suite.
 
 <p>
-  <img src="readme/automation.jpg" width="70%" title="Example for screenshot on failure"  />
+  <img src="[דוח באגים](https://github.com/user-attachments/assets/465ab889-c272-41d1-9d45-8f78ca0d7e6d)
+"  />
 </p>
 
 ## 📑 Technologies & Skill & Features
