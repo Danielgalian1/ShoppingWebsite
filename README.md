@@ -38,7 +38,7 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 <p>
   <![Uploading image.png…]()
 "  />
-  <img src="-![דוח באגים](https://github.com/user-attachments/assets/897378b0-7206-4933-aca0-b1f538ddc9c1)
+  <img src="-(https://github.com/user-attachments/assets/897378b0-7206-4933-aca0-b1f538ddc9c1)
 " />
 </p>
 
