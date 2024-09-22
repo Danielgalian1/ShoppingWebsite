@@ -1,10 +1,8 @@
 
-    <img src="https://automation.co.il/wp-content/uploads/2020/06/cropped-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%9C%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%A6%D7%99%D7%94.png" alt="המכללה לאוטומציה" title="המכללה לאוטומציה" align="right" height="60" />
-</a>
 
 # 💻 My Automation Project 
 ✅ This is a testing automation demo project that tests a real site called: 
-![image](https://github.com/user-attachments/assets/99c7ecaa-bb93-4e94-86b8-b274d80d5433)
+![image](https://github.com/user-attachments/assets/a71526d0-50b3-44f1-ba77-64fab5fd512e)
 
 - [x] This example is for the automation college students only 
 
