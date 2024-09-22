@@ -4,7 +4,8 @@
 
 # 💻 My Automation Project 
 ✅ This is a testing automation demo project that tests a real site called: 
-www.automation.co.il
+![image](https://github.com/user-attachments/assets/99c7ecaa-bb93-4e94-86b8-b274d80d5433)
+
 - [x] This example is for the automation college students only 
 
 ![GitHub forks](https://img.shields.io/badge/Number%20Of%20Happy%20Students-1000+-blue) ⭐⭐⭐⭐⭐
@@ -92,6 +93,7 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 Thanks for visiting my GitHub profile! 😊
 daniel galian
 <p>
-  <img src="readme/gal-matalon.jpg" width="70%" title="גל מטלון - המכללה לאוטומציה"  />
+  <img ![image](https://github.com/user-attachments/assets/b626c9b6-39e2-4ef7-b7d6-34c7a1487c43)
+ />
 </p>
 https://www.automation.co.il
